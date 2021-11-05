@@ -8,11 +8,11 @@ Atividade de arte digital sobre uso da paleta de cores e fontes, para o layout d
 
 Código das cores em RGB:
 
-#0d0d0d
-#a23041
-#f24738
-#f25d27
-#80182e
-#592551
-#564d7e
-#f24d49
+## #0d0d0d
+## #a23041
+## #f24738
+## #f25d27
+## #80182e
+## #592551
+## #564d7e
+## #f24d49
